@@ -1,7 +1,7 @@
 # Work Day Scheduler
 
 ## The Project
-Created a daily scheduler for a normal 9 to 5 working day. Users will be able to enter to do items for during the day. It will show gray for time passed, red for current hour, and green for hours in the future.
+Created a daily scheduler for a normal 9 to 5 working day. Users will be able to enter to do items for during the day. It will show gray for time passed, red for current hour, and green for hours in the future. All events will be stored in the local storage.
 
 ## Javascript Quiz Homepage
 
