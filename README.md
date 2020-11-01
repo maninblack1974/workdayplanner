@@ -5,7 +5,8 @@ Created a daily scheduler for a normal 9 to 5 working day. Users will be able to
 
 ## Javascript Quiz Homepage
 
-![image](https://user-images.githubusercontent.com/25594179/97094032-ccb51880-1605-11eb-989c-af590d54a218.png)
+![Screen Shot 2020-10-31 at 11 49 16 PM](https://user-images.githubusercontent.com/25594179/97796935-4e441200-1bd5-11eb-9547-675f2e957607.png)
+
 
 
 ## License
